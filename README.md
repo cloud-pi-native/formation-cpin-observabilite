@@ -40,7 +40,7 @@ CPiN intègre une fonctionnalité de *Dashboard as code*.
 
 Lors de la création d'un projet, un repo de code est automatiquement créé dans gitlab : infra-observability
 
-![repo infra-observability](/img/agreement/repo-infra-observability.png)
+![repo infra-observability](/img/repo-infra-observability.png)
 
 Ce repo de code peut contenir 2 types de fichiers :
  - Des Dashboard grafana sous forme de fichiers .json dans le répertoire "/files/dashboards/"
