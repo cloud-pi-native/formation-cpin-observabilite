@@ -1,0 +1,23 @@
+# IDE / éditeurs
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# Environnement / secrets
+.env
+.env.*
+!.env.example
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+tmp/
